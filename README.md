@@ -1,6 +1,8 @@
 # gtest-win-build
 Copyright (c) 2017 Open Communications Security. All rights reserved.
 
+*IMPORTANT*: This project has been deprected in favor of **ocs-cmake-utils** (https://github.com/opencs/ocs-cmake-utils). We will no longer promote any changes to this project.
+
 ## Introduction
 
 CMake (https://cmake.org/) is a very powerfull build tool for portable C/C++
